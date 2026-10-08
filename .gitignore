@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# env variables
+.env
+.env.*
+!.env.example
+
+# tools
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# system
+.vscode/
+.idea/
+.DS_Store
